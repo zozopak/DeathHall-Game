@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90c0806e-603e-4638-af88-c58f16a959b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeathHall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DeathHall/com/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DeathHall/com/example/controllers/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DeathHall/com/example/controllers/RandomHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DeathHall/com/example/models/AssaultRifle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DeathHall/com/example/models/Bullet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DeathHall/com/example/models/Gun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DeathHall/com/example/models/SniperRifle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DeathHall/com/example/models/Soldier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/controllers/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/controllers/RandomHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/models/AssaultRifle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/models/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/models/Gun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/models/SniperRifle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/models/Soldier.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hsULl55esOPCBg7tYN1zLIcQ5t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Main" />
+      <module name="DeathHall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Main2" />
+      <module name="DeathHall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90c0806e-603e-4638-af88-c58f16a959b3" name="Default Changelist" comment="" />
+      <created>1600799243628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600799243628</updated>
+      <workItem from="1600799244989" duration="3044000" />
+      <workItem from="1600839063555" duration="26680000" />
+      <workItem from="1609946057395" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1600861696207">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1600861696207" />
+    <state x="503" y="324" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600842793260">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="503" y="324" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.860@0.0.1440.860" timestamp="1600842793260" />
+    <state x="505" y="121" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600853365853">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="505" y="121" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1600853365853" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1600879358964">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1600879358964" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1600879358964">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1600879358964" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1600879358963">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1600879358963" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1600879358964">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1600879358964" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1600865231904">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1600865231904" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1600865231904">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1600865231904" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1600865231903">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1600865231903" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1600865231904">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1600865231904" />
+    <state x="516" y="177" key="refactoring.ChangeSignatureDialog" timestamp="1600842421567">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="516" y="177" key="refactoring.ChangeSignatureDialog/0.0.1440.860@0.0.1440.860" timestamp="1600842421567" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DeathHall$Main.ic" NAME="Main Coverage Results" MODIFIED="1600877912860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>
